@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Structure</string>
+    <string name="main_screen_text_view">"Main Screen provides options"</string>
+    <string name="main_screen_button_1">"Artists"</string>
+    <string name="main_screen_button_2">"Albums"</string>
+    <string name="main_screen_button_3">"Songs"</string>
+    <string name="main_screen_button_4">"Play lists"</string>
+
+</resources>
